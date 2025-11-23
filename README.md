@@ -1,6 +1,6 @@
 # Monday Coffee Expansion SQL Project
 
-![Company Logo](https://github.com/najirh/Monday-Coffee-Expansion-Project-P8/blob/main/1.png)
+![Company Logo]
 
 ## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
@@ -41,18 +41,15 @@ The goal of this project is to analyze the sales data of Monday Coffee, a compan
 After analyzing the data, the recommended top three cities for new store openings are:
 
 **City 1: Pune**  
-1. Average rent per customer is very low.  
-2. Highest total revenue.  
-3. Average sales per customer is also high.
+Pune stands out as the strongest market with the highest sales (12.58 lakh) and strong customer base (52 customers). 
+Rent is moderate and coffee consumption potential is solid.
 
-**City 2: Delhi**  
-1. Highest estimated coffee consumers at 7.7 million.  
-2. Highest total number of customers, which is 68.  
-3. Average rent per customer is 330 (still under 500).
+**City 2: Chennai**  
+Chennai follows with very strong sales (9.44 lakh) supported by 42 customers. 
+The rent is slightly higher but acceptable, and coffee consumer potential is also high.
 
-**City 3: Jaipur**  
-1. Highest number of customers, which is 69.  
-2. Average rent per customer is very low at 156.  
-3. Average sales per customer is better at 11.6k.
+**City 3: Bangalore**  
+Bangalore takes third place with sales of 8.6 lakh and 39 customers. 
+It has the highest rent among the top cities and a strong consumer potential.
 
 ---
